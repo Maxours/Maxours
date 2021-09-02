@@ -1,5 +1,5 @@
 - 👋 Salut, je suis @Maxours
 - 👀 J'apprend le code JAVA , Pour Minecraft
-- 🌱 Je vas essayer de faire de bons plugins
+- 🌱 Je vais essayer de faire de bons plugins
 - 💞️ Je collabore avec @saifcraft
 - 📫 Vous pouvez m'envoyer un mail a maxours123@gmail.com
